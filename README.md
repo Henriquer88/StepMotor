@@ -1,5 +1,5 @@
 # StepMotor
-Geração de código no KEIL e simulação no Proteus 
+
 
 # Objetivo
  Como fazer um projeto utilizando o compilador Keil mdk com  simulação no  Proteus Labcenter.
